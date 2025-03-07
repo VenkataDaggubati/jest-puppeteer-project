@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "resolveJsonModule": true,
+        "target": "es2019",
+        "types": [
+            "node",                     
+            "@jest/globals",
+            "jest",
+            "puppeteer",
+        ],
+    },
+    "ts-node": {
+        "transpileOnly": true
+    },
+}

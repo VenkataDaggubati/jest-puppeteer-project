@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="User Profile Integration Tests" tests="5" failures="0" errors="0" time="33.322">
+  <testsuite name="HRM app Login " errors="0" failures="0" skipped="0" timestamp="2025-03-06T20:20:12" time="33.272" tests="5">
+    <testcase classname="HRM app Login  Login with valid credentials" name="HRM app Login  Login with valid credentials" time="5.814">
+    </testcase>
+    <testcase classname="HRM app Login  Logout HRM site" name="HRM app Login  Logout HRM site" time="2.315">
+    </testcase>
+    <testcase classname="HRM app Login  Login with Invalid credentials" name="HRM app Login  Login with Invalid credentials" time="7.531">
+    </testcase>
+    <testcase classname="HRM app Login  Login with Valid username &amp; Invalid password" name="HRM app Login  Login with Valid username &amp; Invalid password" time="7.846">
+    </testcase>
+    <testcase classname="HRM app Login  Login with Invalid username &amp; valid password" name="HRM app Login  Login with Invalid username &amp; valid password" time="7.757">
+    </testcase>
+  </testsuite>
+</testsuites>
